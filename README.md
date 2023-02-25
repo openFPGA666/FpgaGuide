@@ -223,12 +223,15 @@ Xilinx公司的器件选型指南
 - [xilinx FPGA在线调试方法总结（vivado+ila+vio）](https://mp.weixin.qq.com/s?__biz=MzU3MTc1NDUzNg==&mid=2247483763&idx=1&sn=35dc09a8ac67a653e44d32df09263e2d&chksm=fcda1034cbad99221d9b270aa77099be5f58e67c829a7520a1c40aba0f7c2aacacde21a30c47&token=1330069221&lang=zh_CN#rd)
 
 # 联系方式
-原创公众号
+### 原创公众号
+
 分享FPGA开发知识、项目、调试经验，最近整理了一套免费的学习资料（FPGA电子书、开发软件包、进阶资料库），详情戳：
+
 ![](https://github.com/openFPGA666/FpgaGuide/blob/main/img/fpga.png)
 
 # 联系作者
 作者是一名普通的FPGA开发者，热爱学习和分享。
-参加工作以后越来越理解交流和分享的重要性，在不停地汲取营养的同时，也希望能帮助到更多的小伙伴们。
+参加工作以后越来越理解交流和分享的重要性，在不停地汲取营养的同时，也希望能帮助到更多的小伙伴们，可加微信，备注（Github）。
+
 ![](https://github.com/openFPGA666/FpgaGuide/blob/main/img/wetcat.png)
 
