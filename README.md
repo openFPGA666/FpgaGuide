@@ -12,10 +12,17 @@
 
 ## 一、开发环境搭建与软件包下载
 vivado版本越高，需要安装的存储空间越大，需要性能强大的CPU和大运行内存才能跑的动。建议根据自己的电脑配置选择版本，笔记本电脑建议上手vivado2017.4，台式机电脑安装更好，运行和综合布线速度更快，linux系统比windows系统运行速度更快。
+
 **vivado安装包**：
-[vivado 2017.4](https://pan.baidu.com/s/1nfUTByyrxhYxT3Tmm4NEgQ )（提取码：vruk）、[vivado2018](https://pan.baidu.com/s/1GoP7K7ME1tGlwKd1u9Cb8w)（提取码：u2yf）、[vivado 2019.1](https://pan.baidu.com/s/1z7IBxGtZRTu5NHjgcNPcxw )（提取码：n4to）
+[vivado 2017.4](https://pan.baidu.com/s/1nfUTByyrxhYxT3Tmm4NEgQ )（提取码：vruk）
+[vivado2018](https://pan.baidu.com/s/1GoP7K7ME1tGlwKd1u9Cb8w)（提取码：u2yf）
+[vivado 2019.1](https://pan.baidu.com/s/1z7IBxGtZRTu5NHjgcNPcxw )（提取码：n4to）
+
 **Quartus安装包**：
-[Quartus9.1](https://pan.baidu.com/s/1LWCv1c490IKUAPwxjgWqIw)（提取码：382g）、[Quartus12.0](https://pan.baidu.com/s/10E4It-duYbC7KldUbJ_fsw)（提取码：s642）、[Quartus13.0](https://pan.baidu.com/s/1MMMx5a3zZNsIty8sNB8A8Q)（提取码：bt1b）
+[Quartus9.1](https://pan.baidu.com/s/1LWCv1c490IKUAPwxjgWqIw)（提取码：382g）
+[Quartus12.0](https://pan.baidu.com/s/10E4It-duYbC7KldUbJ_fsw)（提取码：s642）
+[Quartus13.0](https://pan.baidu.com/s/1MMMx5a3zZNsIty8sNB8A8Q)（提取码：bt1b）
+
 **Modelsim安装包**：
 [Modelsim](https://pan.baidu.com/s/1h0T6qvOsHsxRu4pA8fB5GA )（提取码：pa2y）
 
