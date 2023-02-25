@@ -75,9 +75,9 @@ Xilinx公司的器件选型指南
 - [Ultrascale系列器件的选型指南](https://www.eetree.cn/wiki/_media/ultrascale-fpga-product-selection-guide.pdf)
 - [Ultrascale+系列器件的选型指南](https://www.eetree.cn/wiki/_media/ultrascale-plus-fpga-product-selection-guide.pdf)
 
-- [Altera/Intel公司的器件选型指南](https://www.eetree.cn/wiki/_media/intel_product-catalog.pdf)
+[Altera/Intel公司的器件选型指南](https://www.eetree.cn/wiki/_media/intel_product-catalog.pdf)
 
-- [Lattice Semi公司的器件选型指南](https://www.eetree.cn/wiki/_media/psg_2019_i0211k_rev20.pdf)
+[Lattice Semi公司的器件选型指南](https://www.eetree.cn/wiki/_media/psg_2019_i0211k_rev20.pdf)
 
 ### ZNYQ
 - [UG585](https://docs.xilinx.com/v/u/en-US/ug585-Zynq-7000-TRM)
