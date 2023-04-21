@@ -39,7 +39,7 @@ vivado版本越高，需要安装的存储空间越大，需要性能强大的CP
 > HDL语言(Hardware Design Language)，用于FPGA开发建模，语法类似于软件C语言，但设计思想完全不一样，类似于建模
 
 - [《Verilog数字系统设计教程》夏宇闻](https://pan.quark.cn/s/56886154ed1e)
-《Verilog经典教程》夏宇闻
+
 ### system verilog 教程
 > system verilog主要用于编写测试仿真激励，验证verilog HDL设计的电路是否正常。
 
