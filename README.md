@@ -27,30 +27,30 @@ vivado版本越高，需要安装的存储空间越大，需要性能强大的CP
 
 **Modelsim安装包**：
 
-- [Modelsim](https://pan.baidu.com/s/1u2BTitn_GN18Xd-LPKnSkA)（提取码：921a）
+- [Modelsim](https://pan.quark.cn/s/457f6d046d8a)
 
 *更多版本不断更新中，请关注公众号《FPGA入门到精通》*
 
 ## 二、FPGA入门
 ### 数字电路基础
 数字电路是FPGA的基础，可以初步了解和学习，遇到问题可以再来书里找相关知识学习。
-- [《数字电子技术基础》第5版 -- 阎石](https://pan.baidu.com/s/1H4oe_vL6KkHlgX4bk4C7bg)（提取码：9n0k）
+- [《数字电子技术基础》第5版 -- 阎石](https://pan.quark.cn/s/4826f478cb94)
 ### verilog HDL教程
 > HDL语言(Hardware Design Language)，用于FPGA开发建模，语法类似于软件C语言，但设计思想完全不一样，类似于建模
 
-- [《Verilog数字系统设计教程》夏宇闻](https://pan.baidu.com/s/1_ncJ9k1uRxRxWils-IJYmA)（提取码：rhgd）
+- [《Verilog数字系统设计教程》夏宇闻](https://pan.quark.cn/s/56886154ed1e)
 《Verilog经典教程》夏宇闻
 ### system verilog 教程
 > system verilog主要用于编写测试仿真激励，验证verilog HDL设计的电路是否正常。
 
-- [《SystemVerilog验证方法学》夏宇闻](https://pan.baidu.com/s/1gHMlJOQjSI6CveQfo0Iscg)（提取码：gcr0）
+- [《SystemVerilog验证方法学》夏宇闻](https://pan.quark.cn/s/79dd6d6ce842)
 
 ### 网上教程
-- [米联客ZNYQ入门教程](https://pan.baidu.com/s/1cWMGCeNS6F6tqD5zo9uT9g)（提取码：x8e0）
-- [Verilog那些事儿](https://pan.baidu.com/s/1l6w6VNXes5oqZVP8hZl4ug)（提取码：rmjo）
+- [米联客ZNYQ入门教程](https://pan.quark.cn/s/73a9505e778b)
+- [Verilog那些事儿](https://pan.quark.cn/s/8d8cd4d58959)
 
 ### 时序约束
-- [猫叔的FPGA时序约束教程](https://pan.baidu.com/s/1zGsaVuS4Y0aN5ZastXyzoA)（提取码：7lde）
+- [猫叔的FPGA时序约束教程](https://pan.quark.cn/s/ba0f96126c62)
 - [UG903](https://docs.xilinx.com/r/en-US/ug903-vivado-using-constraints)
 
 ### 官方网站
